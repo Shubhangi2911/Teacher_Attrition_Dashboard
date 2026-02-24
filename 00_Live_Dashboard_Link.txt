@@ -1,0 +1,5 @@
+Live Dashboard Link: https://teacherattritiondashboard-9fsa43vzti4xzzquaz5tue.streamlit.app/
+Credentials: admin / 1234
+
+
+GitHub Repository Link: https://github.com/Shubhangi2911/Teacher_Attrition_Dashboard
